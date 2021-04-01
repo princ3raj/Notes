@@ -9,12 +9,12 @@
 - Delete Notes, by swiping it to right
 - Update Notes
 
-![picture](image1.jpeg)
+<img src="image1.jpeg" width="270"/>
 
 
-![picture](image2.jpeg)
+<img src="image2.jpeg" width="270"/>
 
 
-![picture](image3.jpeg)
 
+<img src="image3.jpeg" width="270"/>
 
